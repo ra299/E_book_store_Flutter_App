@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+![Finished App](https://github.com/ra299/E_book_store_Flutter_App/blob/master/appImg/Screenshot_2021-03-29-20-57-01-78_d615f2c9edaf7fa9b203f24833999d3b.jpg)
+![Finished App](https://github.com/ra299/E_book_store_Flutter_App/blob/master/appImg/Screenshot_2021-03-29-20-57-05-33_d615f2c9edaf7fa9b203f24833999d3b.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
